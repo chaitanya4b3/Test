@@ -1,5 +1,5 @@
 #include<stdio.h>
-int sum(int ab, int b)
+int sum(int ab, int bb)
 {
 	int c;
 	c=a+b;
